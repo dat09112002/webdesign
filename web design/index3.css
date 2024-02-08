@@ -1,0 +1,225 @@
+.pineapple-bg {
+  position: absolute;
+  height: 110.77%;
+  width: 102.49%;
+  top: -4.83%;
+  right: -2.49%;
+  bottom: -5.94%;
+  left: 0.01%;
+  background-color: var(--color-green-1);
+}
+.p {
+  position: absolute;
+  top: 30.88%;
+  left: -84.52%;
+  font-weight: 500;
+  color: var(--color-green-2);
+  text-align: center;
+}
+.click-to-slide1 {
+  position: relative;
+  font-weight: 500;
+}
+.button1 {
+  position: absolute;
+  top: 893px;
+  left: 851.8px;
+  border-radius: 36.77px;
+  border: 2.7px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 216.5px;
+  height: 61.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 13.619304656982422px 27.238609313964844px;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-8xl-2);
+  color: var(--color-darkslategray);
+}
+.can-icon,
+.image-8-icon {
+  position: absolute;
+  height: 28.06%;
+  width: 16.4%;
+  top: 43.94%;
+  right: 85%;
+  bottom: 28%;
+  left: -1.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.can-icon {
+  height: 51.56%;
+  width: 16.04%;
+  top: 24.22%;
+  right: 37.29%;
+  bottom: 24.21%;
+  left: 46.67%;
+}
+.orange-bg {
+  position: absolute;
+  height: 110.77%;
+  top: -3.15%;
+  bottom: -7.62%;
+  left: -48px;
+  background-color: var(--trusk-2);
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+  width: 1967.8px;
+}
+.half-juicy-orange-close-up-iso-icon1 {
+  position: absolute;
+  height: 16.99%;
+  width: 10.64%;
+  top: 24.81%;
+  right: 80.09%;
+  bottom: 58.19%;
+  left: 9.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.sukunas-scarlet-tempest {
+  position: absolute;
+  top: 223px;
+  left: 1183px;
+  font-size: 40px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+}
+.introducing-sukunas-scarlet {
+  margin: 0;
+}
+.introducing-sukunas-scarlet-container {
+  position: absolute;
+  top: 290px;
+  left: 1122px;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 722px;
+  height: 602px;
+}
+.logo-icon5 {
+  width: 171px;
+  position: relative;
+  height: 92px;
+  object-fit: cover;
+}
+.products-container {
+  width: 523px;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-77xl);
+}
+.akar-iconssearch6 {
+  width: 38px;
+  position: relative;
+  height: 38px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icons2,
+.nav-bar3 {
+  display: flex;
+  flex-direction: row;
+}
+.icons2 {
+  width: 64px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.nav-bar3 {
+  position: absolute;
+  top: 44px;
+  left: 80px;
+  border-radius: var(--br-21xl);
+  width: 1792px;
+  height: 71px;
+  overflow: hidden;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-base) var(--padding-29xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray);
+}
+.strawberry {
+  position: absolute;
+  top: -10.65%;
+  left: -7.36%;
+  font-family: var(--font-abhaya-libre-extrabold);
+  color: var(--trusk);
+  text-align: center;
+  transform: rotate(44.12deg);
+  transform-origin: 0 0;
+}
+.can-icon1 {
+  position: absolute;
+  height: 51.56%;
+  width: 16.04%;
+  top: 24.81%;
+  right: 67.66%;
+  bottom: 23.62%;
+  left: 16.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.half-juicy-orange-close-up-iso-icon2,
+.half-juicy-orange-close-up-iso-icon3,
+.image-6-icon {
+  position: absolute;
+  height: 16.99%;
+  width: 10.64%;
+  top: 18.24%;
+  right: 57.75%;
+  bottom: 64.77%;
+  left: 31.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.half-juicy-orange-close-up-iso-icon3,
+.image-6-icon {
+  top: 62.04%;
+  right: 81.4%;
+  bottom: 20.97%;
+  left: 7.97%;
+}
+.image-6-icon {
+  height: 15.39%;
+  width: 10.79%;
+  top: 63.61%;
+  right: 59.99%;
+  bottom: 21%;
+  left: 29.22%;
+  object-fit: contain;
+}
+.page-screens-componentsvarian {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-316xl-7);
+  color: var(--color-black);
+  font-family: var(--font-clash-display);
+}
+.click-to-slide1:hover {
+  background-color: #f0f0f0; /* Change the background color on hover */
+  cursor: pointer;

@@ -1,0 +1,84 @@
+.page-screens-components-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+}
+.products {
+  position: relative;
+  font-weight: 500;
+}
+.products-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-77xl);
+}
+.akar-iconssearch {
+  width: 38px;
+  position: relative;
+  height: 38px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.final-result,
+.nav-bar {
+  border-radius: var(--br-21xl);
+  overflow: hidden;
+}
+.nav-bar {
+  position: absolute;
+  top: 38.9px;
+  left: 672px;
+  width: 1184px;
+  height: 71px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-base) var(--padding-29xl);
+  box-sizing: border-box;
+}
+.final-result {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray);
+  font-family: var(--font-clash-display);
+}
+.products-parent {
+  margin-left: auto;
+  margin-right: 700px;
+}
+
+.products {
+  transition: margin-right 0.3s ease; /* Adding smooth transition effect */
+}
+
+.products:hover {
+  margin-right: 0; /* Resetting the margin on hover */
+}
+
+
+      /* Define a custom class for the navigation links */
+  .nav-link {
+        text-decoration: none; /* Remove default underline */
+        font-family: 'YourNormalFont', sans-serif; /* Replace 'YourNormalFont' with the desired font family */
+        font-size: 20px; /* Adjust the font size as needed */
+        color: #000; /* Set the text color */
+      }
+    
+    

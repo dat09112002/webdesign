@@ -1,0 +1,257 @@
+.pineapple-bg1 {
+  position: absolute;
+  height: 110.77%;
+  width: 102.49%;
+  top: -4.83%;
+  right: -2.49%;
+  bottom: -5.94%;
+  left: 0.01%;
+  background-color: var(--color-green-1);
+}
+.p1 {
+  position: absolute;
+  top: 30.88%;
+  left: -84.52%;
+  font-size: var(--font-size-316xl-7);
+  font-weight: 500;
+  color: var(--color-green-2);
+  text-align: center;
+}
+.click-to-slide2 {
+  position: relative;
+  font-weight: 500;
+}
+.button2 {
+  position: absolute;
+  top: 893px;
+  left: 851.8px;
+  border-radius: 36.77px;
+  border: 2.7px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 216.5px;
+  height: 61.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 13.619304656982422px 27.238609313964844px;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-8xl-2);
+  color: var(--color-darkslategray);
+}
+.can-icon2,
+.image-7-icon,
+.image-8-icon1,
+.image-9-icon {
+  position: absolute;
+  height: 28.06%;
+  width: 16.4%;
+  top: 43.94%;
+  right: 85%;
+  bottom: 28%;
+  left: -1.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.can-icon2,
+.image-7-icon,
+.image-9-icon {
+  height: 16.68%;
+  width: 9.1%;
+  top: 55.03%;
+  right: 82.35%;
+  bottom: 28.3%;
+  left: 8.55%;
+}
+.can-icon2,
+.image-7-icon {
+  height: 51.56%;
+  width: 16.04%;
+  top: 24.22%;
+  right: 37.29%;
+  bottom: 24.21%;
+  left: 46.67%;
+}
+.image-7-icon {
+  height: 42.72%;
+  width: 23.79%;
+  top: 16.28%;
+  right: 78.94%;
+  bottom: 41%;
+  left: -2.73%;
+}
+.orange-bg1 {
+  position: absolute;
+  height: 110.77%;
+  width: 102.49%;
+  top: -4.83%;
+  right: -2.49%;
+  bottom: -5.94%;
+  left: 0;
+  background-color: #e2caca;
+}
+.can-icon3,
+.image-6-icon1 {
+  position: absolute;
+  height: 23.59%;
+  width: 16.55%;
+  top: 42.13%;
+  right: 77.83%;
+  bottom: 34.28%;
+  left: 5.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.can-icon3 {
+  height: 51.56%;
+  width: 16.04%;
+  top: 25.65%;
+  right: 67.71%;
+  bottom: 22.79%;
+  left: 16.25%;
+}
+.logo-icon6 {
+  position: absolute;
+  top: 29px;
+  left: 124px;
+  width: 193px;
+  height: 180px;
+  object-fit: cover;
+}
+.can-icon4,
+.can-icon5,
+.image-10-icon1,
+.image-10-icon2 {
+  position: absolute;
+  height: 51.56%;
+  width: 16.04%;
+  top: 24.81%;
+  right: 39.53%;
+  bottom: 23.62%;
+  left: 44.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.can-icon5,
+.image-10-icon1,
+.image-10-icon2 {
+  height: 40.68%;
+  width: 23.53%;
+  top: 25.19%;
+  right: 45.12%;
+  bottom: 34.14%;
+  left: 31.35%;
+}
+.can-icon5,
+.image-10-icon2 {
+  height: 51.56%;
+  width: 16.04%;
+  top: 24.81%;
+  right: 11.77%;
+  bottom: 23.62%;
+  left: 72.19%;
+}
+.image-10-icon2 {
+  height: 15.39%;
+  width: 10.79%;
+  top: 30.74%;
+  right: 6.5%;
+  bottom: 53.87%;
+  left: 82.71%;
+}
+.products-wrapper {
+  width: 523px;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.akar-iconssearch8 {
+  width: 38px;
+  position: relative;
+  height: 38px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icons3,
+.nav-bar4 {
+  display: flex;
+  flex-direction: row;
+}
+.icons3 {
+  width: 64px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.nav-bar4 {
+  position: absolute;
+  top: 49px;
+  left: 676px;
+  border-radius: var(--br-21xl);
+  width: 1792px;
+  height: 91px;
+  overflow: hidden;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-base) var(--padding-29xl);
+  box-sizing: border-box;
+  color: var(--color-gray);
+}
+.gojos-blueberry-bliss,
+.nanamis-pineapple-elegance,
+.sukunas-scarlet-tempest1 {
+  position: absolute;
+  top: 848px;
+  left: 1462px;
+  font-family: var(--font-abhaya-libre-extrabold);
+}
+.gojos-blueberry-bliss,
+.nanamis-pineapple-elegance {
+  left: 870px;
+}
+.gojos-blueberry-bliss {
+  top: 847px;
+  left: 358px;
+  display: inline-block;
+  width: 221px;
+  height: 41px;
+}
+.page-screens-componentsvarian1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-clash-display);
+}
+.sukunas-scarlet-tempest1:hover,
+    .nanamis-pineapple-elegance:hover,
+    .gojos-blueberry-bliss:hover {
+      background-color: #f0f0f0; /* Change the background color on hover */
+      cursor: pointer;
+    }
+
+    .sukunas-scarlet-tempest1 {
+      position: absolute;
+      top: 848px;
+      left: 1402px; /* Adjusted left position, subtracting 20 pixels */
+      font-family: var(--font-abhaya-libre-extrabold);
+    }
+    
+.click-to-slide2:hover {
+      background-color: #f0f0f0; /* Change the background color on hover */
+      cursor: pointer;
+
+

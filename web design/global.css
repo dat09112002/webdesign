@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-clash-display: "Clash Display";
+  --font-inter: Inter;
+  --font-anton: Anton;
+  --font-abhaya-libre-extrabold: "Abhaya Libre ExtraBold";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-4xs-6: 8.6px;
+  --font-size-8xl-2: 27.2px;
+  --font-size-109xl: 128px;
+  --font-size-316xl-7: 335.7px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #272727;
+  --trusk: #e66565;
+  --trusk-2: #f8cbcb;
+  --color-green-2: #fff06b;
+  --color-green-1: #fffbd3;
+  --color-orange-2: #9b73ce;
+  --color-orange-1: #c8b9dc;
+  --color-darkgray-100: #a9a7a7;
+  --color-darkgray-200: #979797;
+  --color-black: #000;
+  --color-darkslategray: #333;
+  --color-blueviolet: #9747ff;
+  --color-orange: #ffa100;
+
+  /* Gaps */
+  --gap-11xl: 30px;
+  --gap-77xl: 96px;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-29xl: 48px;
+  --padding-sm-6: 13.6px;
+  --padding-8xl-2: 27.2px;
+
+  /* Border radiuses */
+  --br-21xl: 40px;
+  --br-121xl: 140px;
+  --br-17xl-8: 36.8px;
+}

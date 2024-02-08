@@ -1,0 +1,238 @@
+.pineapple-bg {
+  position: absolute;
+  height: 110.77%;
+  width: 102.49%;
+  top: -4.83%;
+  right: -2.49%;
+  bottom: -5.94%;
+  left: 0.01%;
+  background-color: var(--color-green-1);
+}
+.p {
+  position: absolute;
+  top: 30.88%;
+  left: -84.52%;
+  font-weight: 500;
+  color: var(--color-green-2);
+  text-align: center;
+}
+.click-to-slide1 {
+  position: relative;
+  font-weight: 500;
+}
+.button1 {
+  position: absolute;
+  top: 893px;
+  left: 851.8px;
+  border-radius: 36.77px;
+  border: 2.7px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 216.5px;
+  height: 61.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 13.619304656982422px 27.238609313964844px;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-8xl-2);
+  color: var(--color-darkslategray);
+}
+.can-icon,
+.image-7-icon,
+.image-8-icon,
+.image-9-icon {
+  position: absolute;
+  height: 28.06%;
+  width: 16.4%;
+  top: 43.94%;
+  right: 85%;
+  bottom: 28%;
+  left: -1.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.can-icon,
+.image-7-icon,
+.image-9-icon {
+  height: 16.68%;
+  width: 9.1%;
+  top: 55.03%;
+  right: 82.35%;
+  bottom: 28.3%;
+  left: 8.55%;
+}
+.can-icon,
+.image-7-icon {
+  height: 51.56%;
+  width: 16.04%;
+  top: 24.22%;
+  right: 37.29%;
+  bottom: 24.21%;
+  left: 46.67%;
+}
+.image-7-icon {
+  height: 42.72%;
+  width: 23.79%;
+  top: 16.28%;
+  right: 78.94%;
+  bottom: 41%;
+  left: -2.73%;
+}
+.orange-bg {
+  position: absolute;
+  height: 110.77%;
+  top: -4.83%;
+  bottom: -5.94%;
+  left: 0;
+  background-color: var(--color-orange-1);
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+  width: 1967.8px;
+}
+.can-icon1,
+.half-juicy-orange-close-up-iso-icon1,
+.image-4-icon,
+.image-6-icon {
+  position: absolute;
+  height: 23.59%;
+  width: 16.55%;
+  top: 14.63%;
+  right: 82.26%;
+  bottom: 61.78%;
+  left: 1.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.can-icon1,
+.half-juicy-orange-close-up-iso-icon1,
+.image-4-icon {
+  height: 16.99%;
+  width: 10.64%;
+  top: 41.48%;
+  right: 57.65%;
+  bottom: 41.53%;
+  left: 31.72%;
+  object-fit: cover;
+}
+.can-icon1,
+.image-4-icon {
+  height: 51.56%;
+  width: 16.04%;
+  top: 24.81%;
+  right: 66.82%;
+  bottom: 23.62%;
+  left: 17.14%;
+  object-fit: contain;
+}
+.image-4-icon {
+  height: 61.64%;
+  width: 33.67%;
+  top: 56.11%;
+  right: 71.7%;
+  bottom: -17.75%;
+  left: -5.36%;
+}
+.blueberry1 {
+  position: absolute;
+  height: 33.7%;
+  width: 78.13%;
+  top: 25.74%;
+  left: -60.31%;
+  font-family: var(--font-abhaya-libre-extrabold);
+  color: var(--color-orange-2);
+  text-align: center;
+  display: inline-block;
+  mix-blend-mode: color-burn;
+}
+.introducing-gojos-blueberry {
+  margin: 0;
+}
+.gojos-blueberry-bliss,
+.introducing-gojos-blueberry-container {
+  position: absolute;
+  font-weight: 500;
+  font-family: var(--font-inter);
+}
+.introducing-gojos-blueberry-container {
+  top: 336px;
+  left: 1018px;
+  font-size: 25px;
+  display: inline-block;
+  width: 717px;
+  height: 537px;
+}
+.gojos-blueberry-bliss {
+  top: 278px;
+  left: 1010px;
+  font-size: 40px;
+}
+.logo-icon5 {
+  width: 171px;
+  height: 92px;
+  object-fit: cover;
+  /* Consider removing position: relative; if not needed */
+}
+
+.products-container {
+  width: 523px;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-77xl);
+}
+.akar-iconssearch6 {
+  width: 38px;
+  position: relative;
+  height: 38px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icons2,
+.nav-bar3 {
+  display: flex;
+  flex-direction: row;
+}
+.icons2 {
+  width: 64px;
+  height: 42px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.nav-bar3 {
+  position: absolute;
+  top: 67px;
+  left: 64px;
+  border-radius: var(--br-21xl);
+  width: 1792px;
+  height: 71px;
+  overflow: hidden;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-base) var(--padding-29xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray);
+}
+.page-screens-componentsvarian {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-316xl-7);
+  color: var(--color-black);
+  font-family: var(--font-clash-display);
+}
+.click-to-slide1:hover {
+  background-color: #f0f0f0; /* Change the background color on hover */
+  cursor: pointer;
+}
